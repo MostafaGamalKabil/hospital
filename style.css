@@ -139,7 +139,7 @@ p {
 }
 
 #home .home-content {
-    background-image: url(../images/bg-home.jpg);
+    background-image: url(images/bg-home.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
